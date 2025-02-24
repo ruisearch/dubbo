@@ -157,7 +157,7 @@
     <junit_jupiter_version>5.11.3</junit_jupiter_version>
     <junit_platform_version>1.11.3</junit_platform_version>
     <junit_version>4.13.2</junit_version>
-    <awaitility_version>4.2.2</awaitility_version>
+    <awaitility_version>4.3.0</awaitility_version>
     <hamcrest_version>2.2</hamcrest_version>
     <cglib_version>2.2.2</cglib_version>
     <embedded_redis_version>1.4.3</embedded_redis_version>
